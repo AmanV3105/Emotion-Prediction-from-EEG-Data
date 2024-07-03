@@ -24,6 +24,8 @@ weighted avg       0.96      0.96      0.96       64
 The following confusion matrix illustrates the model's performance across different classes:
 ![alt text](image-1.png)
 
+#Note
+I have executed this code on Google Collab because somehow it is showing error on Visual code
 
 Conclusion
 Using the GRU model, we achieved a very high accuracy, with each class scoring above 0.93. This demonstrates the model's effectiveness in predicting emotional states from EEG readings.
