@@ -24,7 +24,7 @@ weighted avg       0.96      0.96      0.96       64
 The following confusion matrix illustrates the model's performance across different classes:
 ![alt text](image-1.png)
 
-#Note
+# Note
 I have executed this code on Google Collab because somehow it is showing error on Visual code
 
 Conclusion
